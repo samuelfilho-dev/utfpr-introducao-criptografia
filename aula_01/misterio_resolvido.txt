@@ -1,0 +1,3 @@
+d = a , Pois se repete muito, tendo que lingua portuguesa tem muitas palavras
+com o caractere 'a'.
+
