@@ -25,10 +25,10 @@ def main():
         print(f"Uso: {sys.argv[0]} input.txt output.txt enc/dec shift")
         sys.exit(1)
 
-    input_file = sys.argv[1]
-    output_file = sys.argv[2]
-    mode = sys.argv[3]
-    shift = int(sys.argv[4])
+    input_file = sys.argv[1] # carta.txt
+    output_file = sys.argv[2] # output.txt
+    mode = sys.argv[3] # enc
+    shift = int(sys.argv[4]) # -3
 
     with open(input_file, "r", encoding="utf-8") as crypter_file:
         text = crypter_file.read()

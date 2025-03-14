@@ -1,0 +1,18 @@
+d = a
+r = s
+q = d
+g = n
+h = o
+p = s
+w = p / v
+
+
+qd = da
+qdr = das
+gd = na
+gh = no
+whp = pos / vos
+
+
+qdgd = dana
+dqwhv = adpo 
