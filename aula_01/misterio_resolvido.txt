@@ -1,21 +1,13 @@
-d = a , Pois se repete muito, tendo que lingua portuguesa tem muitas palavras
+d = a , Pois é uma vogal se repete muito, tendo que lingua portuguesa tem muitas palavras
 com o caractere 'a'.
 
-qd = Pode ser 'da', pois seguindo o raciocínio em que 'd' é 'a' 'qd' pode ser um preposição do texto
-logo podendo ser 'da'.
+h = e , Pois é uma vogal se repete muito, tendo que lingua portuguesa tem muitas palavras
+com o caractere 'a'.
 
-qdr = Pode ser 'das', pelo mesmo raciocínio do 'qd' podendo ser 'da' logo 'qdr' pode ser 'das'
+q = d , Pois é uma consoante se repete muito, tendo que lingua portuguesa tem muitas palavras
+com o caractere 'a'.
 
-na = Pode ser 'na', pois seguindo o raciocínio em que 'd' é 'a' 'qd' pode ser um preposição do texto
-logo podendo ser 'na'.
+v = r , Pois é uma consoante se repete muito, tendo que lingua portuguesa tem muitas palavras
+com o caractere 'a'.
 
-qdgd = Pode ser 'dana'
-
-gh = Pode ser 'no' pois seguindo o raciocínio em que 'd' é 'a' 'qd' pode ser um preposição do texto
-logo podendo ser 'no'.
-
-p = Pode ser igual a 's' devido que completar preposições o caractere que sobra 
-'p' na preposição 'qhp' pode indicar 's'.
-
-w = Pode ser 'p/v' devido que completar preposições o caractere que sobra 
-'w' na preposição 'whp' pode indicar 'pos/vos'.
+Logo "a jepwe" Pode ser
