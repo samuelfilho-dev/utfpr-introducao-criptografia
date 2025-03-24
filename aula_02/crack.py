@@ -85,7 +85,7 @@ with open(sys.argv[1]) as file:
 
 best_fit = 1e100;
 print('Mensagem: ', txt)
-for interval in range(1, 30, 1):
+for interval in range(1, 50, 1):
    fit, key = freq_every_nth (txt, interval);
    print ('Fitness: ', "{0:.7f}".format(fit), ', Tamanho: ', "{0:2d}".format(len(key)), ', Chave: ', key),
    if fit < best_fit:

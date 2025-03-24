@@ -45,27 +45,27 @@ def decrypt_vigenere(msg, key):
             new_index = (ALPHABET.index(char) - ALPHABET.index(key[i])) % len(ALPHABET)
             decrypted_text.append(ALPHABET[new_index])
         else:
-            decrypted_text.append('')  # Remove caracteres especiais
+            decrypted_text.append('')
     
     return "".join(decrypted_text)
 
-# with open('./aula_02/poema.txt', 'r') as file:
-#     poema_text = file.read()
+with open('./aula_02/poema.txt', 'r') as file:
+    poema_text = file.read()
 
-# key = 'emily'
+key = 'emily'
 
-# poema = encrypt_vigenere(poema_text, key)
-# print(f"{poema}")
+poema = encrypt_vigenere(poema_text, key)
+print(f"{poema}")
 
-# print("-------------------")
+print("-------------------")
 
-# with open('./aula_02/misterio.txt', 'r') as file:
-#     misterio_text = file.read()
+with open('./aula_02/misterio.txt', 'r') as file:
+    misterio_text = file.read()
 
-# misterio_key = 'rodrigo'
+misterio_key = 'rodrigo'
 
-# decrypted_text = decrypt_vigenere(misterio_text, misterio_key)
-# print(f"{decrypted_text}")
+decrypted_text = decrypt_vigenere(misterio_text, misterio_key)
+print(f"{decrypted_text}")
 
 print("-------------------")
 with open('./aula_02/text_01.txt', 'r') as file:
